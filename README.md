@@ -1,4 +1,4 @@
-# PS1 Git Status for BASH
+# Git status prompt for BASH
 
 This is a small script to show git status on the bash shell:
 
