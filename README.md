@@ -2,7 +2,7 @@
 
 This is a small script to show git status on the bash shell:
 
-![Git PS1 Bash](https://github.com/adantop/gitps1/blob/main/gitbash.gif?raw=true "Git PS1 Bash")
+![Git PS1 Bash](https://github.com/adantop/gitps1/blob/main/resources/gitbash.gif?raw=true "Git PS1 Bash")
 
 ## How to use
 
