@@ -6,7 +6,8 @@ This is a small script to show git status on the bash shell:
 
 ## How to use
 
-```git clone https://github.com/adantop/gitps1.git
+```
+git clone https://github.com/adantop/gitps1.git
 cd gitps1
 echo -e "\nsource $(readlink -f .)/ps1.sh" >> ~/.bashrc
 ```
